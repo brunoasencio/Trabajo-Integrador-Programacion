@@ -244,3 +244,8 @@ Población mínima: abc
 # Conclusión grupal
 Ambos integrantes participaron en la planificación, desarrollo y prueba del programa, aplicando los conceptos de programación estructurada, modularidad y manejo de datos en Python.
 La colaboración permitió dividir las tareas de forma equilibrada y lograr un código funcional, legible y bien documentado de manera eficiente y rapida.
+
+# ====================================
+# Link del video
+# ====================================
+https://youtu.be/GXwjPFDyMhs
